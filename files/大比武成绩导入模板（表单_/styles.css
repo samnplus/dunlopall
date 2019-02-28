@@ -12,37 +12,13 @@
   position:absolute;
   z-index:0;
 }
-#u10102 {
+#u10103 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:50px;
   width:450px;
   height:64px;
-}
-#u10103_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:150px;
-  height:30px;
-}
-#u10103 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:150px;
-  height:30px;
-}
-#u10103_text {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:8px;
-  width:146px;
-  word-wrap:break-word;
 }
 #u10104_img {
   border-width:0px;
@@ -55,7 +31,7 @@
 #u10104 {
   border-width:0px;
   position:absolute;
-  left:150px;
+  left:0px;
   top:0px;
   width:150px;
   height:30px;
@@ -79,7 +55,7 @@
 #u10105 {
   border-width:0px;
   position:absolute;
-  left:300px;
+  left:150px;
   top:0px;
   width:150px;
   height:30px;
@@ -98,21 +74,21 @@
   left:0px;
   top:0px;
   width:150px;
-  height:34px;
+  height:30px;
 }
 #u10106 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:30px;
+  left:300px;
+  top:0px;
   width:150px;
-  height:34px;
+  height:30px;
 }
 #u10106_text {
   border-width:0px;
   position:absolute;
   left:2px;
-  top:10px;
+  top:8px;
   width:146px;
   word-wrap:break-word;
 }
@@ -127,7 +103,7 @@
 #u10107 {
   border-width:0px;
   position:absolute;
-  left:150px;
+  left:0px;
   top:30px;
   width:150px;
   height:34px;
@@ -151,7 +127,7 @@
 #u10108 {
   border-width:0px;
   position:absolute;
-  left:300px;
+  left:150px;
   top:30px;
   width:150px;
   height:34px;
@@ -164,7 +140,31 @@
   width:146px;
   word-wrap:break-word;
 }
-#u10109_div {
+#u10109_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:34px;
+}
+#u10109 {
+  border-width:0px;
+  position:absolute;
+  left:300px;
+  top:30px;
+  width:150px;
+  height:34px;
+}
+#u10109_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:10px;
+  width:146px;
+  word-wrap:break-word;
+}
+#u10110_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -181,7 +181,7 @@
   font-size:16px;
   color:#FF0000;
 }
-#u10109 {
+#u10110 {
   border-width:0px;
   position:absolute;
   left:7px;
@@ -191,7 +191,7 @@
   font-size:16px;
   color:#FF0000;
 }
-#u10109_text {
+#u10110_text {
   border-width:0px;
   position:absolute;
   left:0px;
